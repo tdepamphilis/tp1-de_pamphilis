@@ -1,0 +1,9 @@
+C:\Users\tdepa\Desktop\visual studio\tp1-de_pamphilis\TP1-De Pamphilis\Sysacad\bin\Debug\Sysacad.exe.config
+C:\Users\tdepa\Desktop\visual studio\tp1-de_pamphilis\TP1-De Pamphilis\Sysacad\bin\Debug\Sysacad.exe
+C:\Users\tdepa\Desktop\visual studio\tp1-de_pamphilis\TP1-De Pamphilis\Sysacad\bin\Debug\Sysacad.pdb
+C:\Users\tdepa\Desktop\visual studio\tp1-de_pamphilis\TP1-De Pamphilis\Sysacad\obj\Debug\Sysacad.csprojAssemblyReference.cache
+C:\Users\tdepa\Desktop\visual studio\tp1-de_pamphilis\TP1-De Pamphilis\Sysacad\obj\Debug\Sysacad.Properties.Resources.resources
+C:\Users\tdepa\Desktop\visual studio\tp1-de_pamphilis\TP1-De Pamphilis\Sysacad\obj\Debug\Sysacad.csproj.GenerateResource.cache
+C:\Users\tdepa\Desktop\visual studio\tp1-de_pamphilis\TP1-De Pamphilis\Sysacad\obj\Debug\Sysacad.csproj.CoreCompileInputs.cache
+C:\Users\tdepa\Desktop\visual studio\tp1-de_pamphilis\TP1-De Pamphilis\Sysacad\obj\Debug\Sysacad.exe
+C:\Users\tdepa\Desktop\visual studio\tp1-de_pamphilis\TP1-De Pamphilis\Sysacad\obj\Debug\Sysacad.pdb
